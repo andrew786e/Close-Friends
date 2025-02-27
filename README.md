@@ -18,7 +18,7 @@ Welcome to the **Close Friends Chat App**! This is a private messaging platform 
 ## How to Run the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/close-friends-chat.git](https://github.com/andrew786e/Close-Friends.git
+   git clone https://github.com/andrew786e/Close-Friends.git
    cd Close-Friends
    ```
 2. Install dependencies:
