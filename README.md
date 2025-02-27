@@ -41,13 +41,6 @@ Welcome to the **Close Friends Chat App**! This is a private messaging platform 
 - 🎭 **Custom Status**: Set custom statuses for your profile.
 - 🌎 **Multi-language Support**: Expand accessibility with multiple languages.
 
-## Contributing
-We welcome contributions! To get started:
-- Fork the repository.
-- Create a new branch (`git checkout -b feature-name`).
-- Commit your changes (`git commit -m "Added new feature"`).
-- Push to your branch and open a Pull Request.
-
 ---
 📌 **Stay connected with your close friends, one message at a time!**
 
