@@ -31,6 +31,7 @@ Welcome to the **Close Friends Chat App**! This is a private messaging platform 
 4. Start the development server:
    ```sh
    npm run dev
+   npx convex dev
    ```
 5. Open your browser and visit `http://localhost:3000` to access the app.
 
